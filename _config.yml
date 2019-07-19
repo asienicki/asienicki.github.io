@@ -1,41 +1,47 @@
-title: devlopr jekyll # the title of your blog
-
-subtitle: A Jekyll Theme built for Developers # subtitle of your blog
-
-description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-
+# Site Settings
+title: sienicki.dev
+email: artur.sienicki@gmail.com
+description: .NET Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://asienicki.github.io" # the base hostname & protocol for your site
+google_analytics: "UA-144175693-1"
 
-# All the images can be found at - /_site/assets/img/
+# User Settings
+username: .NET Developer
+user_description: Pięknie
+disqus_username: asienickigithubio
 
-author_logo: profile.png  # your profile image 
+# Social Media
+# Remove the item if you don't need it
+github_username: asienicki
+facebook_username: facebook_username
+twitter_username: ArturSienicki
+instagram_username: instagram_username
+linkedin_username: sienicki
+medium_username: medium_username
 
-disqus_shortname: your-disqus-username   #for comments using disqus
+# Build settings
+markdown: kramdown
+highlighter: rouge
+permalink: /:title/
+paginate: 12
+paginate_path: "/page/:num/"
+svg_color: "#ff0a16"
 
-# Author details
+# Plugins
+plugins:
+  - jemoji
+  - jekyll-paginate
 
-author: devlopr
-author_bio: Hello, my name is John Doe.I am an award winning Full Stack Web Developer and UI/UX Javascript specialist.Check out my blog articles, React.JS and Vue.JS UI components at the code laboratory.Feel free to take a look at my latest projects below.Based in London, UK. 
-author_email: "john@devlopr.com"
-author_location: India
-author_website_url: "https://yourwebsite.com"
+# Links to include in menu navigation
+# For external links add external: true
+links:
+  - title: Start
+    url: /
+  - title: O mnie
+    url: /about/
+  - title: Kontakt
+    url: /contact/
 
-# social links 
-twitter_username: yourusername
-github_username:  yourusername
-facebook_username: yourusername
-linkedin_username: yourusername
-behance_username: yourusername
-instagram_username: yourusername
-medium_username: yourusername 
-telegram_username: yourusername
-dribbble_username: yourusername 
-flickr_username: yourusername
-
-
-# important to use devlopr theme 
-theme: devlopr
+# Exclude my node related stuff
+exclude: ['package.json', 'src', 'node_modules']
