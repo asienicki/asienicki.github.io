@@ -3,8 +3,8 @@ title: sienicki.dev
 email: artur.sienicki@gmail.com
 description: .NET Developer
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://asienicki.github.io" # the base hostname & protocol for your site
-google_analytics: "UA-144175693-1"
+url: "https://sienicki.dev" # the base hostname & protocol for your site
+google_analytics: "UA-144175258-1"
 
 # User Settings
 username: .NET Developer

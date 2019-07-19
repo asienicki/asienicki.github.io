@@ -8,7 +8,7 @@ tags:
 - Blazor
 - WebAssembly
 permalink: "/hello-blazor/"  
-image: 'https://asienicki.github.io/assets/img/morpheus_xdzgg1.jpg'
+image: 'https://sienicki.dev/assets/tiles/rightWay.jpg'
 category: 'blog' 
 introduction: W ostatnich dniach na "ołpen spejsach" i "salonach" tematem numer 1 jest WebAssembly.
 ---
