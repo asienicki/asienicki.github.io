@@ -16,7 +16,7 @@ tags:
 permalink: "/windows-auth-i-browser/"
 image: 'https://sienicki.dev/assets/tiles/doorman.jpg'
 category: 'blog' 
-introduction: Dzisiaj omówię jak prawidłowo skonfigurować aplikacji intranetowej hostowanej na IIS.
+introduction: Dzisiaj omówię jak prawidłowo skonfigurować uwierzytelnianie windows aplikacji intranetowej hostowanej na IIS.
 ---
 Dzisiaj omówię jak prawidłowo skonfigurować **uwierzytelnianie windows** 
 aplikacji intranetowej hostowanej na IIS.
