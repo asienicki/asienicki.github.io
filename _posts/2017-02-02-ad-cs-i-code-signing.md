@@ -10,7 +10,7 @@ tags:
 - CA
 - Code signing
 permalink: "/ad-cs-i-code-signing/"
-image: 'https://sienicki.dev/assets/tiles/hash.png'
+image: 'https://sienicki.dev/assets/tiles/chochlik.jpg'
 category: 'blog' 
 introduction: Zdobycie certyfikatu do podpisywania kodu.
 ---
