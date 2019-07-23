@@ -5,7 +5,7 @@ type: post
 categories:
 - Bez kategorii
 permalink: "/xss-injection-a-mvc/"
-image: 'https://sienicki.dev/assets/tiles/service.jpg.jpg'
+image: 'https://sienicki.dev/assets/tiles/service.jpg'
 category: 'blog' 
 introduction: XSS MVC
 ---
