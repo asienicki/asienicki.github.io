@@ -32,7 +32,7 @@ Istotne fakty:
 
 I co dalej? No właśnie. Aplikacja B mogłaby użyć innego sposobu komunikowania się z serwisem, ale... dlaczego mam to zmieniać skoro nie do końca wiadomo czyja jest to wina?
 
-I tak rozpoczęło się przeszukiwanie dokumentacji HTTP ::musical_score::
+I tak rozpoczęło się przeszukiwanie dokumentacji HTTP :musical_score:
 
 Żeby móc zagłębić się w temat najpierw trzeba się dowiedzieć do czego służy ten HEADER. Można sobie przetłumaczyć Content-Type na PL i wyjdzie nam "typ zawartości"... lub poszperać w [RFC](http://www.w3.org/Protocols/rfc2616/rfc2616-sec14.html#sec14.17)i wyjdzie na to samo.. albo nie :stuck_out_tongue:
 
