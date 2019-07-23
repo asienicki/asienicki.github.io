@@ -8,15 +8,11 @@ categories:
 tags:
 - credentials
 - kerberos
-- negotiate
-- NTLM
-- password
-- prompt
 - Windows Authentication
 permalink: "/windows-auth-i-browser/"
 image: 'https://sienicki.dev/assets/tiles/doorman.jpg'
 category: 'blog' 
-introduction: Dzisiaj omówię jak prawidłowo skonfigurować uwierzytelnianie windows aplikacji intranetowej hostowanej na IIS.
+introduction: Konfiguracja Windows Authentication.
 ---
 Dzisiaj omówię jak prawidłowo skonfigurować **uwierzytelnianie windows** 
 aplikacji intranetowej hostowanej na IIS.
