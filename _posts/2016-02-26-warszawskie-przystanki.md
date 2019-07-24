@@ -7,6 +7,9 @@ categories:
 tags:
 - przystanki
 permalink: "/warszawskie-przystanki/"
+image: 'https://sienicki.dev/assets/tiles/548116_525298757487759_302758926_na.jpg'
+category: 'blog' 
+introduction: Baza danych dla chętnych
 ---
 Ostatnio przy obiedzie usłyszałem dość oryginalne pytanie które padło podczas rozmowy kwalifikacyjnej.
 
