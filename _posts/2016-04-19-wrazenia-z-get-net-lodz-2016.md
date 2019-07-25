@@ -12,7 +12,7 @@ tags:
 - IoT
 - Łódź
 permalink: "/wrazenia-z-get-net-lodz-2016/"
-image: 'https://sienicki.dev/assets/tiles/relation.jpg'
+image: 'https://sienicki.dev/assets/tiles/lodz-manufaktura.jpg'
 category: 'blog' 
 introduction: Notatki z konferencji
 ---
