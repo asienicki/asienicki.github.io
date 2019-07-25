@@ -13,7 +13,7 @@ image: 'https://sienicki.dev/assets/tiles/chochlik.jpg'
 category: 'blog' 
 introduction: proponowane rozszerzenia
 ---
-Dzisiaj pod wpływem chwili postanowiłem podzielić się małym kawałkiem szczęścia z całym światem :simple_smile:
+Dzisiaj pod wpływem chwili postanowiłem podzielić się małym kawałkiem szczęścia z całym światem :smile:
 
 Podczas tworzenia testowej aplikacji pisanej w Visual Studio 2015, 
 zauważyłem, że podczas przeglądania kodu html i javascript pojawił mi się w nagłówku pliku komunikat:
