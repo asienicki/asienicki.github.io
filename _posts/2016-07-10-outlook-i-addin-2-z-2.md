@@ -12,7 +12,7 @@ tags:
 permalink: "/outlook-i-addin-2-z-2/"
 image: 'https://sienicki.dev/assets/tiles/addin.png'
 category: 'blog' 
-introduction: pokażę, jak dodać grupę do istniejącej zakładki, podpiąć formularz, przekazać istniejący obiekt spotkania do formularza, przekazać dane do exchange’a, odnaleźć się w dokumentacji
+introduction: jak przekazać dane do exchange’a
 ---
 Zgodnie z zapowiedzią w [pierwszej części](http://sienicki.org/outlook-i-addin-1-z-2/ "Outlook i addin 1/2") dzisiaj pokażę, jak:
 
